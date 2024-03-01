@@ -1,4 +1,4 @@
-import Test from "./test1";
+import Test from "./test1/index";
 
 (() => {
     Test();
