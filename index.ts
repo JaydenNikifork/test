@@ -1,4 +1,4 @@
-function main() {
+export function main() {
     return `
     <!DOCTYPE html>
     <html lang="en">
@@ -22,5 +22,3 @@ function main() {
     </html>
     `
 }
-
-exports.entry = main;
