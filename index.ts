@@ -1,4 +1,4 @@
-export function entry() {
+export const entry = () => {
     return `
     <!DOCTYPE html>
     <html lang="en">
