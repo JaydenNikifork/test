@@ -1,4 +1,7 @@
+import { Test } from "./test1/test2/test3"
+
 export const entry = () => {
+    Test();
     return `
     <!DOCTYPE html>
     <html lang="en">
