@@ -1,4 +1,4 @@
-export function main() {
+export function entry() {
     return `
     <!DOCTYPE html>
     <html lang="en">
