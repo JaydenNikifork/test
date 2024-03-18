@@ -23,4 +23,4 @@ function main() {
     `
 }
 
-exports.main = main;
+exports.entry = main;
