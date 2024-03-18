@@ -1,4 +1,4 @@
-import { Test } from "./test1/test2/test3"
+import { Test } from "./test1/test2/test3/index"
 
 export const entry = () => {
     Test();
