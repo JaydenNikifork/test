@@ -1,3 +1,4 @@
+import { marked } from "marked";
 import { Test } from "./test1/test2/test3/index"
 
 export const entry = () => {
